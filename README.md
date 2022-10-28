@@ -1,2 +1,3 @@
-# dio_project_sample
-Amostra de projeto criado para o desafio Java Beginners
+# Amostra de projeto para a platafoma DIO
+Amostra de projeto criado para o Bootcamp "Potência Tech powered by iFood - Java Beginners"
+
